@@ -1,1 +1,1 @@
-# Eosio Token Standard
+#Eosio Token Standard
