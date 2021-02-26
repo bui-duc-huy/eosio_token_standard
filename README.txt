@@ -1,1 +1,0 @@
-# Eosio Token Standard
